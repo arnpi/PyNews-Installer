@@ -2,7 +2,7 @@
 
 CURRENT_DIR=$PWD
 CURRENT_USER=$USER
-INSTALL_DIR="/home/micromus/pynews_env"
+INSTALL_DIR="/home/$USER/pynews_env"
 
 echo "This script will install PyNews development version"
 echo "First install virtualenv, need root login"
